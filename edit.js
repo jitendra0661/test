@@ -24,16 +24,4 @@ lockBtn.addEventListener("click", function () {
     lockFlag = !lockFlag;
 })
 console.log('in js');
-
-
-console.log('nono');
-let b = 10;
-console.log('for main');
-
-console.log('nono');
-let c = 10;
-console.log('for main');
-
-console.log('nono');
-let a = 10;
-console.log('for main');
+console.log('in js');
