@@ -25,3 +25,9 @@ lockBtn.addEventListener("click", function () {
 })
 console.log('in js');
 console.log('in js');
+console.log('in js');
+console.log('in js');
+console.log('in js');
+console.log('in js');
+console.log('in js');
+console.log('in js');
