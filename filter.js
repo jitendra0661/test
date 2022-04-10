@@ -34,5 +34,13 @@ for (let i = 0; i < allFilterElems.length; i++) {
     })
 }
 console.log('nono');
-console.log('fup');
+let b = 10;
+console.log('for main');
+
+console.log('nono');
+let c = 10;
+console.log('for main');
+
+console.log('nono');
+let a = 10;
 console.log('for main');
