@@ -34,5 +34,5 @@ for (let i = 0; i < allFilterElems.length; i++) {
     })
 }
 console.log('nono');
-console.log('fup');
+let a = 10;
 console.log('for main');
