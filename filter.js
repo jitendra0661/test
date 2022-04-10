@@ -33,3 +33,6 @@ for (let i = 0; i < allFilterElems.length; i++) {
         });
     })
 }
+console.log('nono');
+console.log('fup');
+console.log('for main');
