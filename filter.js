@@ -33,3 +33,4 @@ for (let i = 0; i < allFilterElems.length; i++) {
         });
     })
 }
+console.log('for main');
